@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="396c100a-9335-4899-b6d1-31f6fe06dc1d" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/StaticPagesController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/StaticPagesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -95,8 +95,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="119" />
-    <option name="y" value="152" />
+    <option name="x" value="-23" />
+    <option name="y" value="242" />
     <option name="width" value="1616" />
     <option name="height" value="967" />
   </component>
@@ -194,7 +194,7 @@
       <updated>1544684366719</updated>
       <workItem from="1544684369035" duration="5083000" />
       <workItem from="1544690206695" duration="2080000" />
-      <workItem from="1544749775476" duration="49000" />
+      <workItem from="1544749775476" duration="861000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1544686217705</created>
@@ -221,7 +221,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7212000" />
+    <option name="totallyTimeSpent" value="8024000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -233,11 +233,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="119" y="152" width="1616" height="967" extended-state="1" />
-    <editor active="true" />
+    <frame x="-23" y="242" width="1616" height="967" extended-state="1" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31520316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31520316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
