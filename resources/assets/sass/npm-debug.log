@@ -1,0 +1,37 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'rebuild', 'node-sass' ]
+2 info using npm@3.10.10
+3 info using node@v6.11.1
+4 info readInstalled object
+5 verbose rebuild path, id [ '/home/vagrant/Code/sample/node_modules/node-sass',
+5 verbose rebuild   'node-sass@3.13.1' ]
+6 silly rebuild set [ '/home/vagrant/Code/sample/node_modules/node-sass' ]
+7 info build /home/vagrant/Code/sample/node_modules/node-sass
+8 info lifecycle node-sass@3.13.1~preinstall: node-sass@3.13.1
+9 silly lifecycle node-sass@3.13.1~preinstall: no script for preinstall, continuing
+10 info linkStuff node-sass@3.13.1
+11 silly linkStuff node-sass@3.13.1 has /home/vagrant/Code/sample/node_modules as its parent node_modules
+12 verbose linkBins node-sass@3.13.1
+13 verbose link bins [ { 'node-sass': 'bin/node-sass' },
+13 verbose link bins   '/home/vagrant/Code/sample/node_modules/.bin',
+13 verbose link bins   false ]
+14 verbose linkMans node-sass@3.13.1
+15 verbose rebuildBundles node-sass@3.13.1
+16 verbose rebuildBundles [ 'gaze', 'lodash.clonedeep' ]
+17 silly gentlyRm /home/vagrant/Code/sample/node_modules/.bin/node-sass is being purged
+18 verbose gentlyRm don't care about contents; nuking /home/vagrant/Code/sample/node_modules/.bin/node-sass
+19 verbose stack Error: EPROTO: protocol error, symlink '../node-sass/bin/node-sass' -> '/home/vagrant/Code/sample/node_modules/.bin/node-sass'
+19 verbose stack     at Error (native)
+20 verbose cwd /home/vagrant/Code/sample/resources/assets/sass
+21 error Linux 4.4.0-81-generic
+22 error argv "/usr/bin/nodejs" "/usr/bin/npm" "rebuild" "node-sass"
+23 error node v6.11.1
+24 error npm  v3.10.10
+25 error path ../node-sass/bin/node-sass
+26 error code EPROTO
+27 error errno -71
+28 error syscall symlink
+29 error EPROTO: protocol error, symlink '../node-sass/bin/node-sass' -> '/home/vagrant/Code/sample/node_modules/.bin/node-sass'
+30 error If you need help, you may report this error at:
+30 error     <https://github.com/npm/npm/issues>
+31 verbose exit [ -71, true ]
