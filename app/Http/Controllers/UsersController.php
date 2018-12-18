@@ -15,7 +15,7 @@ class UsersController extends Controller
     {
         return view('users.create');
     }
-
+    //查看用户信息
     public function show($id)
     {
         $user = User::findOrFail($id);
@@ -23,6 +23,7 @@ class UsersController extends Controller
 //        print_r($user);die;
         return view('users.show', compact('user'));
     }
+    //新建用户
     public function store(Request $request)
     {
         $this->validate($request,[
