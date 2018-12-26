@@ -56,6 +56,7 @@ class User extends Model implements AuthenticatableContract,
     {
         return $this->hasMany(Status::class);
     }
+
     public function feed()
     {
         return $this->statuses()
